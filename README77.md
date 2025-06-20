@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Vinayjay77
-- 👀 I’m interested in ...Full Stack Development
-- 🌱 I’m currently learning ...Java Advanced
-- 💞️ I’m looking to collaborate on ...Java 
-- 📫 How to reach me ...Reach me through my LinkedIN or call me on 3524402157
-- 😄 Pronouns: ...He/him
-- ⚡ Fun fact: ...
+# Hi there 👋, I'm [Your Full Name]
+Software Developer-- Full Stack Development-- 
+ 
 
-<!---
-Vinayjay77/Vinayjay77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 I Am a Graduate student  Graduated, Master’s in Advanced Information Technology From Florida Atlantic University
+- 📚 Relevant Coursework: [List key courses]
+- 💼 Previously worked as a [Your Past Roles]
+- 🌟 Passionate about [Your interests: e.g., Web Dev, Data Science, etc.]
+- 🔍 Exploring [Special Tools or Tech you like]
+- 🚀 Currently looking for roles in [Job focus, e.g., Front-End Dev, Data Analytics]
+- 📫 Reach me at: [your.email@example.com]
